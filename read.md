@@ -17,7 +17,7 @@ LICENSE: [MIT](./license.md)
 7. [git clone](clone.md)
 8. [git remote](remote.md)
 9. [status](stat.md)
-
+10. [end](end.md)
 
 
 
