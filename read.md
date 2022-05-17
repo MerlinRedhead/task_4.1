@@ -1,0 +1,15 @@
+# Инструкция по работе с GIT
+
+LICENSE: [MIT](./license.md)
+
+![GitHub_logo](GitHub_Logo.png)
+
+----
+
+### Содержание:
+1. Что-то
+2. [git add](add.md)
+
+
+----
+GIT logo by GitHub -  https://github.com/logos,license: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
